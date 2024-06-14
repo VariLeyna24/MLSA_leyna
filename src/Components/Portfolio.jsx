@@ -54,7 +54,18 @@ const projectList = [
       "We invite you to join this talk that inspires you to be more efficient with #mujerqueinspiranbolivia, if you have not yet registered you can do so here: 📅Date: May 25 and 26 🚀Virtual Event",
     url: "https://www.facebook.com/mujeresqueinspiranBolivia/posts/471891038843735",
   },
-  
+  {
+    title: "Topic: “Digital Brain With Obsidian”",
+    description:
+      "Do you accumulate information that you never use? Reading and learning are worthless if we do not know how to process correctly. Register so you don't miss an incredible talk: March 8 and 9: IWD El Alto 2024: Traces of Empowerment, Flourishing with Strength and Freedom!",
+    url: "https://www.facebook.com/photo?fbid=243727748812232&set=a.233399016511772",
+  },
+  {
+    title: " Hackaton: Before You Click 2022",
+    description:
+      "MENTOR For 3 days, 5 teams of students from #Law, #SystemsEngineering and #Psychology worked together to design and build technological solutions to combat cyberbullying. 💻🕵",
+    url: "https://www.facebook.com/permalink.php?story_fbid=430446702616305&id=100069529353738",
+  },
 ];
 
 const Portfolio = () => {
