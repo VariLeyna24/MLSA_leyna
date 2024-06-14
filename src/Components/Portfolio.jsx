@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/imagen_cuadros.jpg";
+import image from "../images/design-desk.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Nasa Space Apps Challenge El Alto",
     description:
-      "The Logistics Lead is responsible for the overall planning and execution of the hackathon's logistics. This includes tasks such as: Securing and managing the venue Coordinating transportation and accommodation for participants and staff Managing food an  bev rage",
+      "The Logistics Lead is responsible for the overall planning and execution of the hackathon's logistics. This includes tasks such as: Securing and managing the venue ",
     url: "https://www.facebook.com/leynavarinia.pachecoquisbert/posts/10233209425564033",
   },
   {
