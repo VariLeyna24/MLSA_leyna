@@ -31,7 +31,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Leyna Varinia",
+ "User Interface (UI) Design",
   "User experience",
   "Inclusive design",
   "Focus group testing",
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm an aspiring web designer and data analyst currently honing my skills at Barnett Technical University.  My passion lies at the intersection of aesthetics and information, where I can leverage data insights to craft user interfaces that are both beautiful and functional.";
 
 const About = () => {
   return (
