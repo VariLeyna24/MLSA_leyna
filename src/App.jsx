@@ -26,10 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Leyna Varinia Pacheco Quisbert ",
   title: "Web designer and Education, data analyst",
-  email: "leyna.v.p.q@hotmail.com",
+  email: "LeynaVarinia.Pacheco@studentambassadors.com",
   gitHub: "VariLeyna24",
   instagram: "leynavarinia",
-  linkedIn: "leyna-varinia-pacheco-quisbert",
+  linkedIn: "leyna-varinia-pacheco-quisbert-31960a135/",
   medium: "",
   twitter: "@LeynaV",
   youTube: "@leynapacheco2880",
