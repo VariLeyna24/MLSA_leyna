@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "../images/down-arrow.svg";
+import arrowSvg from "../images/fondo_1.svg";
 import PropTypes from "prop-types";
 
 /**
@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/portadaleyna2.jpg";
+import image from "../images/portadaleyna3.jpg";
 
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 
