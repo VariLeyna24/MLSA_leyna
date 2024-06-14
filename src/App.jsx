@@ -29,7 +29,7 @@ const siteProps = {
   email: "leyna.v.p.q@hotmail.com",
   gitHub: "VariLeyna24",
   instagram: "leynavarinia",
-  linkedIn: "lleyna-varinia-pacheco-quisbert",
+  linkedIn: "leyna-varinia-pacheco-quisbert",
   medium: "",
   twitter: "@LeynaV",
   youTube: "@leynapacheco2880",
