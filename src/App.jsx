@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Leyna Varinia Pacheco Quisbert ",
-  title: "Web Designer & Content Creator",
+  title: "Web designer and Education, data analyst",
   email: "leyna.v.p.q@hotmail.com",
   gitHub: "VariLeyna24",
   instagram: "leynavarinia",
